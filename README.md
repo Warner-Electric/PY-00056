@@ -3,6 +3,8 @@
 ## 📌 Overview
 `coil_pack_app.py` is a **Tkinter-based GUI application** for designing and visualizing coil winding layouts on a bobbin. It calculates **packing efficiency**, **strand positions**, and provides a **graphical representation** of the coil cross-section.
 
+<img width="1904" height="845" alt="image" src="https://github.com/user-attachments/assets/d8e6af3d-16c0-4cf5-801f-cd4842c6d689" />
+
 ---
 
 ## ✅ Features
